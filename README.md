@@ -1,5 +1,7 @@
 # Building Custom Discovery for Digitized Collections Using Computational Methods
 
+By Scott Bailey
+
 *Triangle Research Library Network (TRLN) Annual Meeting 2020*
 
 Computational methods, such as topic modeling, create an opportunity for librarians to build experimental graphical interfaces to digitized collections. In this hands-on workshop with the Python programming language, participants will learn how to topic model a text corpus, and build interactive visualizations to expose items in the collection in new ways.
@@ -21,6 +23,16 @@ INSERT GOOGLE COLAB BUTTON
 The digitized collection we'll work with today is from NC State University Libraries' Special Collections: *[The Animal Turn](https://www.lib.ncsu.edu/animal-turn)*. This is a grant-funded collection with substantial materials from NC State University Libraries' Animal Rights and Welfare collections, along with materials from the ASPCA's archives. We're only going to be working with the text of these materials today, but one could certainly use computational methods to explore the collection as images. 
 
 This collection is backed by [IIIF (International Image Interoperability Project)](https://iiif.io/) and includes OCR text. With permission, I've taken advantage of the IIIF manifest for the collection, and scraped the OCR text. The scraping text is included in this repo in `scrape.ipynb`. 
+
+
+## Resources on Machine Learning and Libraries
+
+There is an ever-growing number of reports, articles, and environmental scans on the future of machine learning/artificial intelligence and libraries. Here are a select few pieces:
+
+- [Responsible Operations: Data Science, Machine Learning, and AI in Libraries](https://www.oclc.org/research/publications/2019/oclcresearch-responsible-operations-data-science-machine-learning-ai.html) by Thomas Padilla
+- [Machine Learning + Libraries: A Report on the State of the Field](https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf?loclr=blogsig) from LC Labs and written by Ryan Cordell. 
+- [Mapping the Current Landscape of Research Library Engagement with Emerging Technologies in Research and Learning](https://www.arl.org/resources/mapping-the-current-landscape-of-research-library-engagement-with-emerging-technologies-in-research-and-learning/) from ARL, CNI, and Educause. This isn't specifically and only about ML in libraries, but it's a heavy and recurring theme. 
+- [Shifting to Data Savvy: The Future of Data Science in Libraries](http://d-scholarship.pitt.edu/33891/1/Shifting%20to%20Data%20Savvy.pdf), an IMLS funded report on libraries, librarians and data science. 
 
 
 ## Credits
