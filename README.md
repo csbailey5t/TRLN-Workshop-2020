@@ -26,12 +26,12 @@ You can also run the full notebook in Binder. To run in Binder, click the button
 
 The digitized collection we'll work with today is from NC State University Libraries' Special Collections: *[The Animal Turn](https://www.lib.ncsu.edu/animal-turn)*. This is a grant-funded collection with substantial materials from NC State University Libraries' Animal Rights and Welfare collections, along with materials from the ASPCA's archives. We're only going to be working with the text of these materials today, but one could certainly use computational methods to explore the collection as images. 
 
-This collection is backed by [IIIF (International Image Interoperability Project)](https://iiif.io/) and includes OCR text. With permission, I've taken advantage of the IIIF manifest for the collection, and scraped the OCR text. The scraping text is included in this repo in `scrape.ipynb`. 
+This collection is backed by [IIIF (International Image Interoperability Project)](https://iiif.io/) and includes OCR text. With permission, I've taken advantage of the public IIIF manifest for the collection, and scraped the OCR text. The scraping code is included in this repo in `scrape.ipynb`. 
 
 
 ## Resources on Machine Learning and Libraries
 
-There is an ever-growing number of reports, articles, and environmental scans on the future of machine learning/artificial intelligence and libraries. Here are a select few pieces:
+There is an ever-growing number of reports, articles, and environmental scans on the future of machine learning/artificial intelligence and libraries. Here are a select few pieces if you're wanting to look further:
 
 - [Responsible Operations: Data Science, Machine Learning, and AI in Libraries](https://www.oclc.org/research/publications/2019/oclcresearch-responsible-operations-data-science-machine-learning-ai.html) by Thomas Padilla
 - [Machine Learning + Libraries: A Report on the State of the Field](https://labs.loc.gov/static/labs/work/reports/Cordell-LOC-ML-report.pdf?loclr=blogsig) from LC Labs and written by Ryan Cordell. 
@@ -41,6 +41,6 @@ There is an ever-growing number of reports, articles, and environmental scans on
 
 ## Credits
 
-This workshop is based off of work I did while at Stanford Libraries as part of the SUL AI Studio, a library initiative initiated to explore possible uses of machine learning/artificial intelligence in relation to library collections and services. Working with [Javier de la Rosa](https://www.linkedin.com/in/versae/), [Rebecca Wingfield](https://library.stanford.edu/people/wingfiel), and [Arcadia Falcone](https://library.stanford.edu/people/arcadia) on the [Jarndyce Single Volume Nineteenth Century Novel Collection](https://searchworks.stanford.edu/catalog?f%5Bcollection%5D%5B%5D=jt466yc7169), I experimented with different machine learning approaches to produce semantic models and cluster documents with an eye toward metadata creation and discovery. Code from that experimental, proof-of-concept only work is [here](https://github.com/sul-cidr/jarndyce).
+This workshop is based off of work I did while at Stanford Libraries as part of the SUL AI Studio, a library initiative to explore possible uses of machine learning/artificial intelligence in relation to library collections and services. Working with [Javier de la Rosa](https://www.linkedin.com/in/versae/), [Rebecca Wingfield](https://library.stanford.edu/people/wingfiel), and [Arcadia Falcone](https://library.stanford.edu/people/arcadia) on the [Jarndyce Single Volume Nineteenth Century Novel Collection](https://searchworks.stanford.edu/catalog?f%5Bcollection%5D%5B%5D=jt466yc7169), I experimented with different machine learning approaches to produce semantic models and cluster documents with an eye toward metadata creation and discovery. Code from that experimental, proof-of-concept only work is [here](https://github.com/sul-cidr/jarndyce).
 
 This workshop builds directly from that work and would not have been possible without our great project team. 
