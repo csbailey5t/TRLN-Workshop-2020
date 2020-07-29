@@ -135,7 +135,7 @@ include/
 share/
 
 # project data
-texts/
+#texts/
 
 # VSCode settings
 .vscode/

@@ -1,0 +1,3174 @@
+From the Molecular Biology of
+Oncogenic DNA Viruses to Cancer
+
+Oncogenic viruses, able to elicit tumor
+formation in animals, have been on the
+scientiﬁc scene for many years. After the
+early discovery of Ellerman and Bang at
+the beginning of this century, Peyton
+Rous opened up the ﬁeld in the next
+decade and in prophetic words gave a
+good hint of things to come. However,
+these discoveries were soon forgotten,
+and only after a long eclipse was interest
+in oncogenic viruses revived in the
+1950’s. My involvement in this ﬁeld be-
+gan at that time, when Rubin and Temin
+worked in my laboratory with the Rous
+sarcoma virus. When polyoma virus, a
+new oncogenic virus with different prop-
+erties, was isolated in 1958, [jumped at
+the new opportunity and started working
+with it. Within a short time polyoma
+virus became the main interest of my
+laboratory, to be joined, a few years
+later, by SV40, another papovavirus. It
+became clear fairly soon that the molecu-
+lar biology of these viruses could be
+worked out, and I set out to ﬁnd the
+molecular basis of cancer induction. The
+results that l and a number of brilliant
+yoUng collaborators have obtained dur-
+ing the following 15 years have brought
+us close to that goal. I will review the
+most interesting steps of our work and
+will then ask some questions concerning
+the nature of cancer and about per-
+spectives for prevention and treatment. I
+stress the relevance of my work for can-
+cer research because I believe that sci-
+ence must be useful to man.
+
+ 
+
+Copyright ©1976 by the Nobel Foundation. The
+author is deputy director for research at the Imperi-
+al Cancer Research Fund Laboratories, Lincoln’s
+Inn Fields, London, W.C.2, and a fellow of the
+Salk Institute, San Diego, California. This article is
+the lecture he delivered in Stockholm, Sweden on 12
+December 1975, when he received the Nobel Prize in
+Physiology or Medicine, a prize he shared with
+David Baltimore and Howard M. Temin. The article
+is published here with the permission of the Nobel
+Foundation and will also be included in the complete
+volume of Les Prix Nobel en 1975 as well as in the
+series Nobel Lectures (in English) published by the
+Elsevier Publishing Company, Amsterdam and New
+York. The lectures by Baltimore and Temin will
+appear in later issues.
+
+30 APRIL 1976
+
+Renato Dulbecco
+
+Integration: The Provirus
+
+Let me start with a brief review of our
+work on the molecular events in transfor-
+mation. The ﬁrst results, crucial for fu-
+ture developments, showed that poly-
+oma virus could be assayed in certain
+cell cultures (1), which we call per-
+missive, and could induce a cancer-like
+state in other cultures (2) in which the
+virus does not grow, which we call non-
+permissive. The induction of the cancer-
+like state in vitro was called transforma-
+tion. We were able to show that the virus
+contains DNA (3), and within a few
+years we gave the ﬁrst evidence of its
+cyclic, or circular, shape (4), which is
+important for two critical biological
+events: DNA replication and integration.
+In integration, which we discovered a
+few years later with the virus SV40 (5),
+the viral DNA becomes a provirus, that
+is, it establishes permanent, covalent
+bonds with the cellular DNA. The cyclic
+conﬁguration explains how a complete
+molecule of the SV40 DNA can be in-
+tegrated without losses.
+
+Integration is one of the key events in
+virus-induced cell transformation. It ex-
+plained the persistence of the trans-
+formed state in the cell clone deriving
+from a transformed cell, since the pro-
+virus replicates with the cellular DNA. It
+also permitted us to resolve one of the
+main questions about the role of viruses
+in transformation. It was known at the
+time that papovaviruses leave their foot-
+prints in the cells of the cancers they
+induce and those they transform in vitro,
+in the form of characteristic antigens.
+However, it was not known whether the
+antigens were expressed by viral genes
+or by derepressed cellular genes. Hence,
+it was uncertain whether cells were trans-
+formed by the expression of viral genes
+persisting in the cells or, alternatively,
+whether the virus altered the cells by a
+hit-and-run mechanism, changing the ex-
+pression of cellular genes and then leav-
+
+ing. The demonstration that viral DNA is
+integrated in the cells, in conjunction
+with the ﬁnding that the provirus is tran-
+scribed into messenger RNA (6) hundreds
+of generations after the establishment of
+a transformed clone, made the hit—and-
+run hypothesis unlikely and supported a
+continuing role of viral gene functions in
+determining transformation. This possi-
+bility was later supported by observa-
+tions with abortively transformed cells,
+which behave as transformed only for
+several generations after infection, but
+then return to normal (7). When they are
+back to normal these cells no longer
+contain the viral DNA (8).
+
+The viral genes that remain unex—
+pressed in the transformed cells, such as
+those for capsid protein in SV40-trans-
+formed cells, were also interesting, al-
+though in a different way. In fact their
+expression could be renewed in hetero-
+karyons formed by fusing transformed
+cells with permissive cells (9). a result
+that gave the ﬁrst evidence that the viral
+functions are under the control of cellu-
+lar functions. The provirus thus became
+a tool for studying regulation of DNA
+transcription in animal cells. Sub-
+sequently, the presence of giant RNA’s
+containing viral sequences in the nucleus
+of transformed or lytically infected cells
+(10) raised the question of the initiation
+and termination signals for transcription
+in animal cells, as well as the question of
+processing of nuclear RNA precursors of
+messenger RNA, questions that are still
+largely unresolved.
+
+Viral Functions in Transformation
+
+In the meantime efforts were directed
+at identifying the viral genes transcribed
+in the transformed cells. It was estab-
+lished that in lytic infection with SV40
+the whole viral DNA is transcribed in
+two nearly equal parts—one early, be-
+fore the inception of replication of the
+viral DNA, the other late, after DNA
+replication has begun—and that the early
+RNA is also present in transformed cells
+(6). Subsequently, the early and the late
+messengers were found to be transcribed
+from different DNA strands (11), an ob-
+servation that facilitated further charac-
+terization of the viral transcripts. Later
+work in other laboratories with speciﬁc
+fragments produced by restriction en-
+donucleases conﬁrmed and reﬁned these
+ﬁndings, and the results were extended
+to adenoviruses by showing that a seg-
+ment of the early part of that DNA is
+always present and transcribed in trans—
+formed cells (12).
+
+437
+
+ 
+
+
+
+
+These facts suggested that some early
+viral function is essential for maintaining
+the transformed state but they could also
+be interpreted differently: for instance.
+transformation might be caused by the
+mere presence of the viral DNA in the
+cellular DNA. the persistent viral func—
+tions being perhaps required for estab—
+lishing and maintaining integration.
+
+Attempts were made to solve the di—
+lemma by isolating temperature-sensi-
+tive mutants affecting either initiation or
+maintenance of transformation. Many
+transformation mutants were found. with
+mutations all clustered in a segment of
+the early region of the viral DNA. desig—
+nated as the A gene. but they were all
+initiation mutants (13). These mutations
+prevent the onset of transformation at
+high but not at low temperature. and
+cells transformed at low temperature re-
+
+.main transformed at high temperature. It
+
+was not possible to ﬁnd clear-cut main-
+tenance mutants. that is. mutants ca-
+pable of causing a complete reversion of
+the phenotype when cells transformed at
+low temperature were shifted to high
+temperature. However. careful observa-
+tion later showed that the initiation mu—
+tants were also partial maintenance mu-
+tants. since the cells they transform un-
+dergo a partial reversion of phenotype at
+high temperature (/4). This result shows
+that the viral genes play a continuing role
+in transformation; however. the failure
+to obtain complete maintenance mutants
+suggests that the relation between viral
+gene expression and cell phenotype is
+complex.
+
+Search for the Viral Transforming
+
+Protein
+
+Further progress in this subject has
+been achieved by studying the proteins
+speciﬁed by the early region of the viral
+DNA. This work has centered around
+the so-called T antigen (/5) present in the
+nucleus of cells infected or transformed
+by SV40; the synthesis and properties of
+this antigen are affected by mutations of
+the A gene (/6). ln nonpermissive trans-
+formed cells the antigen is a protein with
+molecular weight of about 94.000 daltons
+(/7). which binds ﬁrmly to double-
+stranded DNA but without much speci-
+ﬁcity ([8). That the T antigen is speciﬁed
+by the viral DNA is strongly suggested
+by its in vitro synthesis by a wheat germ
+extract primed with various messengers
+(/9). especially since the size of the pro-
+duct depends on the nature ofthe messen-
+ger. Thus. when the messenger was viral
+RNA made in vitro by transcribing SV40
+
+438
+
+DNA with Escherichia ('oli RNA polym-
+erase. an antigenic protein of about 62.000
+daltons was synthesized; but when mes-
+senger RNA extracted from infected
+cells was used. the protein synthesized
+was. like the T antigen of transformed
+cells. of about 94.000 daltons. The dis-
+crepancy of the two molecular weights
+makes it very unlikely that the T antigen
+is a cellular protein modiﬁed by a viral
+function. because two different proteins
+would have to be modiﬁed in the same
+extract depending on the messenger
+used. In contrast. the synthesis of a
+shorter polypeptide chain with the arti-
+ﬁcial messenger may be justiﬁed by the
+absence of accessory signals. such as
+the special nucleotide sequence present
+at the 5’-end. known as “cap." polyad-
+enylate at the 3’-end. and possibly other
+modiﬁcations. Further deﬁnition of these
+ﬁndings awaits peptide maps of the vari-
+ous products.
+
+Since the early. transforming. part of
+the SV40 genome can specify proteins of
+a molecular weight of about 100.000 dal-
+tons altogether. the T antigen is likely to
+be its sole product and. therefore. to be
+the transforming protein. However. the
+same protein .must also initiate viral
+DNA replication, which cannot begin at
+high temperature in cells infected by mu-
+tants of the A gene. The different func-
+tions in transformation and lytic infec—
+tion could be performed by different do-
+mains of the same protein. or could re—
+sult from modiﬁcations (such as
+phosphorylation and glycosylation) or
+from processing. Processing of SV40 T
+antigen seems to occur in lytically infect-
+ed cells which contain a smaller T anti-
+gen of about 84.000 daltons; this smaller
+size contrasts with the regular size
+(94.000 daltons) of the antigen speciﬁed
+in vitro by messenger RNA extracted
+from the same cells (17). Whether the
+two forms of the antigen have different
+roles in transformation and DNA replica-
+tion remains to be established.
+
+Since the transforming protein should
+control both initiation and maintenance
+of transformation. the partial reversion
+of the phenotype of cells transformed by
+A mutants when shifted to high temper-
+ature may be explained by a decreased
+requirement for the transforming protein
+once transformation has taken place.
+which in turn could result from a positive
+feedback stabilizing the transformed
+state. For instance. unstable protein
+monomers speciﬁed by the mutated gene
+might form self-stabilizing oligomers
+(20). or the transforming protein might
+generate changes that tend to favor the
+transformed state. An example of the
+
+latter model is the B-galactosidase induc-
+tion in E. (011' which is maintained by
+inducer concentrations much smaller
+than that required for initiating induc-
+tion. because inducer is pumped into the
+cells by the induced permease (2/). I
+wonder whether a certain degree of self-
+stabilization of the state of gene ex-
+pression is a general property of animal
+cells which has developed for main-
+taining differentiation.
+
+Cellular Events in Transformation
+
+I now turn to cellular events participat-
+ing in transformation. which will be the
+main problem after the remaining ques-
+tions on the role of the virus have been
+answered. Among the cellular events are
+functional changes and mutations. Some
+functional changes. which affect many
+cellular properties. are associated with
+the shift of resting cells to a growing
+state after infection with polyoma virus
+or SV40 (22); other changes observed in
+transformed cells and in cancer cells in
+general consist of the reexpression of
+cellular genes normally expressed in a
+preceding state of differentiation. in fetal
+life (23). These functional changes might
+be caused by the binding oftransforming
+proteins to DNA; if so. they may be
+mediated by an alteration of transcrip—
+tion of the cellular DNA. However. we
+do not know whether the transcription
+pattern changes. because experiments
+based on competition hybridization have
+given ambiguous results. Perhaps the
+methodology is not good enough. Clon—
+ing of cellular DNA fragments in phages
+or plasmids may afford the necessary
+probes for carrying out signiﬁcant experi—
+ments.
+
+In order to understand further how the
+virus deregulates cellular growth we
+would need detailed knowledge of the
+mechanisms of growth regulation in ani-
+mal cells. which is now lacking. How-
+ever. certain useful ideas about growth
+regulation are now available. and can be
+used to draw inferences about the action
+ofthe virus. Thus it seems clear that with
+a given cell type. growth regulation in-
+volves a complex chain of events. begin-
+ning with extracellular regulators of
+many kinds. probably interacting with
+the cell plasma membrane. Cytoplasmic
+mediators then appear to transmit regu-
+latory signals from the plasma membrane
+to the nucleus. where they perhaps con-
+trol DNA-binding proteins similar to the
+transforming protein of papovaviruses.
+The complexity of growth regulation in-
+creases markedly when different cell
+
+SCIENCE. VOL. I92
+
+ 
+
+
+
+
+ 
+
+    
+
+‘ .ypcs are considered. since they seem to
+“ recognize different sets of extracellular
+regulators and may have different media-
+tors and DNA—binding proteins.
+
+Proceeding from this general picture it
+would be tempting to propose that the
+viral transforming protein replaces one
+ofthe normal nuclear regulatory proteins
+of the cell and. being unaffected by the
+mediators that control the normal pro-
+tein. keeps growth-related transcription
+going. bypassing the signals of the
+plasma membrane. If so. however. the
+transformed state should be dominant
+over the normal state in cell hybrids.
+whereas the contrary is usually true (24).
+On the other hand. the dominance of the
+normal state could be explained if the
+transformed cells had a changed surface.
+unable to respond to regulatory signals.
+Such a change could result from the reex-
+pression of fetal functions to make the
+transformed cells anachronistic. that is.
+belonging to a stage of differentiation
+inappropriate to that of the organism
+which contains them. The cells with an
+anachronistic surface. being insensitive
+to the growth regulators which operate
+on adult cells in the adult organisms.
+would grow without control. A striking
+support ofthe role of cell anachronism in
+cancer has been obtained with teratoma.
+a tumor originating when cells from an
+early embryo are transplanted to an adult
+environment. When. after many trans-
+plants. cells of this tumor are introduced
+back into a blastocyst (an early embryo).
+they return to normal (25). presumably
+because the internal growth control of
+the cells becomes again matched by the
+environmental regulators of the recipient
+embryo. In this model a hybrid cell
+formed by fusing a transformed and a
+normal cell may be untransformed if the
+normal partner contributes normal sur—
+face components which respond to the
+normal extracellular regulators. For this
+result to be possible. anachronistic tran-
+scription after cell fusion should not be
+initiated on the DNA deriving from the
+normal parent. The virological studies
+suggest that this may well be the case.
+since the initiation of transformation
+seems to require much more trans-
+forming protein than its maintenance.
+
+It would be important to recognize the
+developmental period in which the
+anachronistic genes of transformed or
+cancer cells are normally expressed. not
+only for understanding but possibly also
+for controlling cancer. In fact. if the
+growth regulators speciﬁc for the periods
+expressed in cancer cells could be identi-
+ﬁed. they could be used for halting the
+growth of the cancer cells.
+
+30 APRIL 1976
+
+Role of Cellular Mutations
+
+I will now consider the other cellular
+events important in viral transformation:
+cellular mutations. Several results sug-
+gest that cellular mutations may be
+needed for obtaining the full state of
+transformation with papovaviruses.
+Thus. after infection primary cultures
+generate clones with various degrees of
+transformation. some of which appear to
+undergo full transformation in steps (26)
+that may correspond to the occurrence
+of cellular mutations. Cells that achieve
+full traisformation immediately. as is
+common with permanent lines. may have
+already undergone similar mutations be-
+fore infection. Some cellular mutations
+occurring in transformed cells may even
+be virus-induced. because in the early
+stages of transformation by papovavi-
+ruses cells of primary cultures have
+frequent chromatid breaks (26). Con-
+versely. cells fully transformed by SV4O
+can revert to a relatively normal pheno-
+type although they still contain normal
+viral DNA and T antigen (27). It is con-
+ceivable that these mutations are rever-
+sions of mutations of the former kind.
+which enhance the transformed state of
+the cells. Stepwise transformation may
+occur not only with viruses. Thus I have
+observed it in primary cultures exposed
+to a chemical carcinogen. In this experi-
+ment fully transformed cells evolved
+from the normal cells. which have limit—
+ed life. The normal cells ﬁrst generate
+cells with unlimited life but unable to
+form colonies in agar. then cells with
+progressively increasing colony—forming
+efﬁciency in agar. and ﬁnally cells that
+reach 100 percent efﬁciency.
+
+All these observations show the impor—
+tant role of cellular mutations in cell
+transformation induced by different
+agents. This conclusion is reinforced and
+generalized by additional ﬁndings. such
+as (i) the experimental enhancement of
+the transforming activity of viruses by
+mutagenic agents (28); (ii) the elevated
+cancer frequency in some genetic dis-
+eases; and (iii) the evidence that most
+carcinogens are promutagens. that is.
+generate mutagenic substances when act—
+ed upon by normal metabolism (29).
+Most of the carcinogens themselves
+must be activated by metabolism in a
+similar way in order to induce cancer.
+
+Prospects for Cancer Prevention
+I now turn to some general deductions
+
+concerning the etiology and possible pre-
+vention of human cancer which derive
+
+from the various points I have discussed
+so far. One deduction. deriving from the
+persistence ofthe viral DNA in the cells.
+is that we can test whether a given DNA
+virus is a possible agent of human cancer
+by looking for its DNA in the cancer
+cells. I think that much more extensive
+surveys than those carried out so far are
+warranted. but they should have a sensi-
+tivity sufﬁcient to detect fragments of
+viral DNA of about 1 million daltons.
+which is within the reach of modern tech-
+nology. even with the most difﬁcult virus-
+es. A positive ﬁnding would be signiﬁ—
+cant because DNA viruses do not appear
+to exist in widespread endogenous
+forms.
+
+Another deduction is that somatic mu-
+tations are one of the fundamental in—
+gredients of cancer. although they ap-
+pear to require the occurrence of several
+other events not yet understood. The
+role of mutations in turn suggests that
+the incidence of cancer in man could be
+reduced by identifying as many promuta-
+gens as possible. and by eliminating.
+them from the environment. One impor-
+tant feature of this approach to cancer
+prevention is that it can be started now.
+since these substances can be identiﬁed
+with simple bacterial tests suitable for
+mass screening (30). The feasibility of
+prevention is shown by the fact that the
+promutagens already identiﬁed in a pre—
+liminary screening. such as tobacco or
+some hair dyes. are inessential for hu—
+man life (3/).
+
+However. it is practically difﬁcult to
+achieve a substantial reduction ofthe use
+of these substances. as shown by the
+example of tobacco. According to epide-
+miological evidence. tobacco smoke is
+the agent of human lung cancer. which in
+Britain is responsible for one in eight of
+all male deaths (32). Yet only mild sanc-
+tions have been imposed on tobacco
+products. such as a vague health warning
+on cigarette packets which sounds rather
+like an ofﬁcial endorsement. Any limita-
+tion on the use of tobacco is left to the
+individual. although it is clear that the
+individual cannot easily exercise volun-
+tary restraint in the face of very effective
+advertisements. especially as one does
+not usually appreciate the danger of a
+cumulative action over a long period of
+time.
+
+The lax attitude of governments to-
+ward tobacco probably also derives
+from the difﬁculty of appreciating epide—
+miological evidence. especially since this
+evidence is contradicted from time to
+time by single—minded individuals who
+use incomplete or even erroneous analy-
+ses of the data and whose views are
+
+439
+
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+
+  
+
+ 
+
+
+
+
+l
+
+‘ types are considered. since they seem to
+
+' recognize different sets of extracellular
+regulators and may have different media-
+tors and DNA-binding proteins.
+
+Proceeding from this general picture it
+would be tempting to propose that the
+viral transforming protein replaces one
+ofthe normal nuclear regulatory proteins
+of the cell and. being unaffected by the
+mediators that control the normal pro-
+tein. keeps growth—related transcription
+going. bypassing the signals of the
+plasma membrane. If so. however. the
+transformed state should be dominant
+over the normal state in cell hybrids.
+whereas the contrary is usually true (24).
+On the other hand. the dominance of the
+normal state could be explained if the
+transformed cells had a changed surface.
+unable to respond to regulatory signals.
+Such a change could result from the reex-
+pression of fetal functions to make the
+transformed cells anachronistic. that is.
+belonging to a stage of differentiation
+inappropriate to that of the organism
+which contains them. The cells with an
+anachronistic surface. being insensitive
+to the growth regulators which operate
+on adult cells in the adult organisms.
+would grow without control. A striking
+support ofthe role of cell anachronism in
+cancer has been obtained with teratoma.
+a tumor originating when cells from an
+early embryo are transplanted to an adult
+environment. When. after many trans-
+plants. cells of this tumor are introduced
+back into a blastocyst (an early embryo).
+they return to normal (25). presumably
+because the internal growth control of
+the cells becomes again matched by the
+environmental regulators of the recipient
+embryo. In this model a hybrid cell
+formed by fusing a transformed and a
+normal cell may be untransformed if the
+normal partner contributes normal sur-
+face components which respond to the
+normal extracellular regulators. For this
+result to be possible. anachronistic tran—
+scription after cell fusion should not be
+initiated on the DNA deriving from the
+normal parent. The virological studies
+suggest that this may well be the case.
+since the initiation of transformation
+seems to require much more trans-
+forming protein than its maintenance.
+
+It would be important to recognize the
+developmental period in which the
+anachronistic genes of transformed or
+cancer cells are normally expressed. not
+only for understanding but possibly also
+for controlling cancer. In fact. if the
+growth regulators speciﬁc for the periods
+expressed in cancer cells could be identi—
+ﬁed. they could be used for halting the
+growth of the cancer cells.
+
+30 APRIL 1976
+
+Role of Cellular Mutations
+
+I will now consider the other cellular
+events important in viral transformation:
+cellular mutations. Several results sug-
+gest that cellular mutations may be
+needed for obtaining the full state of
+transformation with papovaviruses.
+Thus. after infection primary cultures
+generate clones with various degrees of
+transformation. some of which appear to
+undergo full transformation in steps (26)
+that may correspond to the occurrence
+of cellular mutations. Cells that achieve
+full traisformation immediately. as is
+common with permanent lines. may have
+already undergone similar mutations be-
+fore infection. Some cellular mutations
+occurring in transformed cells may even
+be virus-induced. because in the early
+stages of transformation by papovavi-
+ruses cells of primary cultures have
+frequent chromatid breaks (26). Con-
+versely. cells fully transformed by SV40
+can revert to a relatively normal pheno-
+type although they still contain normal
+viral DNA and T antigen (27). It is con-
+ceivable that these mutations are rever-
+sions of mutations of the former kind.
+which enhance the transformed state of
+the cells. Stepwise transformation may
+occur not only with viruses. Thus I have
+observed it in primary cultures exposed
+to a chemical carcinogen. In this experi—
+ment fully transformed cells evolved
+from the normal cells. which have limit-
+ed life. The normal cells ﬁrst generate
+cells with unlimited life but unable to
+form colonies in agar. then cells with
+progressively increasing colony-forming
+efﬁciency in agar. and ﬁnally cells that
+reach 100 percent efﬁciency.
+
+All these observations show the impor-
+tant role of cellular mutations in cell
+transformation induced by different
+agents. This conclusion is reinforced and
+generalized by additional ﬁndings. such
+as (i) the experimental enhancement of
+the transforming activity of viruses by
+mutagenic agents (28); (ii) the elevated
+cancer frequency in some genetic dis—
+eases; and (iii) the evidence that most
+carcinogens are promutagens. that is.
+generate mutagenic substances when act-
+ed upon by normal metabolism (29).
+Most of the carcinogens themselves
+must be activated by metabolism in a
+similar way in order to induce cancer.
+
+Prospects for Cancer Prevention
+1 now turn to some general deductions
+
+concerning the etiology and possible pre-
+vention of human cancer which derive
+
+from the various points I have discussed
+so far. One deduction. deriving from the
+persistence ofthe viral DNA in the cells.
+is that we can test whether a given DNA
+virus is a possible agent of human cancer
+by looking for its DNA in the cancer
+cells. I think that much more extensive
+surveys than those carried out so far are
+warranted. but they should have a sensi-
+tivity sufﬁcient to detect fragments of
+viral DNA of about 1 mill-ion daltons.
+which is within the reach ofmodern tech—
+nology. even with the most difﬁcult virus~
+es. A positive ﬁnding would be signiﬁ—
+cant because DNA viruses do not appear
+to exist in widespread endogenous
+forms.
+
+Another deduction is that somatic mu-
+tations are one of the fundamental in-
+gredients of cancer. although they ap-
+pear to require the occurrence of several
+other events not yet understood. The
+role of mutations in turn suggests that
+the incidence of cancer in man could be
+reduced by identifying as many promuta-
+gens as possible. and by eliminating.
+them from the environment. One impor-
+tant feature of this approach to cancer
+prevention is that it can be started now.
+since these substances can be identiﬁed
+with simple bacterial tests suitable for
+mass screening (30). The feasibility of
+prevention is shown by the fact that the
+promutagens already identiﬁed in a pre—
+liminary screening. such as tobacco or
+some hair dyes. are inessential for hu—
+man life (3]).
+
+However. it is practically difﬁcult to
+achieve a substantial reduction ofthe use
+of these substances. as shown by the
+example of tobacco. According to epide—
+miological evidence. tobacco smoke is
+the agent of human lung cancer. which in
+Britain is responsible for one in eight of
+all male deaths (32). Yet only mild sanc~
+tions have been imposed on tobacco
+products. such as a vague health warning
+on cigarette packets which sounds rather
+like an ofﬁcial endorsement. Any limita-
+tion on the use of tobacco is left to the
+individual. although it is clear that the
+individual cannot easily exercise volun-
+tary restraint in the face of very effective
+advertisements. especially as one does
+not usually appreciate the danger of a
+cumulative action over a long period of
+time.
+
+The lax attitude of governments to-
+ward tobacco probably also derives
+from the difﬁculty of appreciating epide-
+miological evidence. especially since this
+evidence is contradicted from time to
+time by single-minded individuals who
+use incomplete or even erroneous analy-
+ses of the data and whose views are
+
+439
+
+ 
+
+
+
+
+l
+
+magniﬁed out of all proportion by the
+media. However, the recent recognition
+that tobacco smoke contains promuta-
+gens contributes direct experimental evi—
+dence on the dangers of tobacco smoke,
+evidence on which there cannot be any
+equivocation. I, therefore, call on gov-
+ernments to act toward severely dis-
+couraging tobacco consumption, and to
+act now because it will be at least 30
+years before their action has its full ef-
+feet.
+
+/ Although tobacco smoke is a striking
+example of an environmental carcino-
+gen, many others are known and prob—
+ably many more remain to be identiﬁed.
+Identiﬁcation by conventional tests is dif—
+ﬁcult because they are costly and labori-
+ous, but they can now be replaced by the
+
+_bacterial testsW; Since
+
+the tests are easy and inexpensive it
+
+l\.should be possible to investigate many
+
+normal constituents of the environment,
+and every new compound before it is
+oﬂ’ered to the public. The feasibility of
+such a program is borne out by the ﬁnd-
+ing that most of the commonly available
+substances are not promutagens (3]).
+Given the strong correlation between mu-
+tagenicity and carcinogenicity (29), any
+promutagen is suspect and, if at all pos-
+\1ble, should be withdrawn.
+
+In fact, this is precisely the attitude
+that scientists have taken for themselves
+concerning the experiments in genetic
+engineering, which carry the theoretical
+possibility of creating new viruslike
+molecules endowed with carcinogenic ac-
+tivity. Although the danger is only hypo-
+thetical, experiments that might be very
+useful for science and society have been
+postponed until they can be carried out
+under the strictest safeguards (33). Gov-
+ernments have accepted this position
+and are eager to impose severe restric-
+tions on the performance of these experi-
+ments. While I fully approve of their
+concern, I cannot help noticing that they
+follow a double standard: if there is any
+doubt you must discourage experiments.
+
+ 
+
+but if there is any doubt you cannot
+discourage cigarettes.
+
+Biologists and Society
+
+This discussion about cancer pre-
+vention is a development of the experi-
+mental results obtained in the ﬁeld of
+oncogenic viruses, but it is also strongly
+inﬂuenced by the new social conscience
+of many scientists. Historically, science
+and society have gone separate ways.
+although society has provided the funds
+for science to grow and in return science
+has given society all the material things it
+enjoys. In recent years, however, the
+separation between science and society
+has become excessive, and the con—
+sequences are felt especially by biolo-
+gists. Thus, while we spend our life ask-
+ing questions about the nature of cancer
+and ways to prevent or cure it, society
+merrily produces oncogenic substances
+and permeates the environment with
+them. Society does not seem prepared to
+accept the sacriﬁces required for eﬁec-
+tive prevention of cancer. The situation
+is clearly unacceptable, and we biolo-
+gists would like to see it corrected. We
+have ourselves begun to put our house in
+order, by banning some experiments that
+may contain a risk for mankind. We
+would like to see society take a similar
+attitude, abandoning selﬁsh practices
+that are dangerous for society itself. We
+would also like to see a new cooperation
+of science and society for the beneﬁt of
+all mankind and hope that the dominant
+forces in society will recognize that this
+is a necessity.
+
+References and Notes
+
+R. Dulbecco and G. Freeman Virologv8 396
+(195 9)
+
+. M. Vogt and R. Dulbecco, Proc. Natl. Acad.
+Sci. U.S.A. 46, 365 (1960); R. Dulbecco and M.
+Vogt, ibid., p. 1617.
+
+. J. D. Smith, G. Freeman. M. Vogt, R. Dul-
+becco, Virology 12,185(1960).
+
+. R. Dulbecco and M. Vogt. Proc. Natl. Acad.
+Sci. U.S.A. 50, 236 (1963).
+
+5. J. Sambrook, H. Westphal, P. R. Srinivasan, R.
+Dulbecco, ibid. 60, 1288 (1968).
+
+. I-I. Koprowski,
+
+. D. M. Lindstrom and R. Dulbecco. Proc.
+
+. P. Tegtmeyer,
+
+.Natl. Acad. Sci.
+
+. R. Doll,
+
+. K. Oda and R. Dulbecco,ib1’d., .525.
+. M. Stoker, Nature (London) 218p 234 (1968).
+. P. Berg and M. Stoker, personal communica-
+
+tion. .
+F C. Jensen, Z. Steplewski.
+
+Proc. Natl. Acad. Sci. U. SA. 58, 127(1967); I
+F. Wakins and R. Dulbecco, ibid., p. 1396.
+
+. S. Tonegawa, G. Walter. A. Bemardini. R. Dul-
+
+becco, Cold Spring Harbor S.vmp Quant. Biol.
+35, 823 (1970) N .
+'1112
+
+Acad. Sci. U...SA 69,1517t1972)
+
+. P. A. Sharp, U. Petterson J. Sambrook, J. Mm
+
+Biol. 86, 709(1974); P. A. Sharp P H. Galli—
+more, 5. J. Flint, Cold Spring Harbor Svmp.
+Quant. Biol. 39, 457 (1974).
+
+. M. Fried, Proc. Natl. Acad. Sci. U. S A. 53 486
+
+(1965); W. Eckhart, Virology 38, 120(1969); P.
+Tegtmeyer and H. L. Ozer, J. Virol. 8, 516
+(1971).
+
+. R. G. Martin, J. Y. Chou. J. Avila, R. Saral,
+
+Cold Spring Harbor Symp. Quant. Biol. 39. 17
+(1974); J. S. Butel, J. S. Brugge, C. A. Noonan.
+ibid., p. 25; G. Kimura and A. ltagakl, Proc.
+Natl. Acad. Sci. U.S.A. 72, 673 (1975).
+
+. P. H. Black, P. W. Rowe, H. C. Turner, R. J.
+
+Hubner, Proc. Natl. Acad. Sci. U.S.A. 50. 1148
+(1963).
+
+Cold Spring Harbor Symp.
+guant. Biol. 39, 9 (1974); M. Oxman, K. K.
+akemoto, W. Eckhart, Virology 49, 675
+(1972); D. Paulin and F. Cuzin, J. Virol.
+15, 393 (1975).
+
+. R. B. Carroll, personal communication.
+
+L. Hager, R. Dulbecco. Proc.
+US. A. 71. 3754 (1974); D
+Jessel, J. Hudson, T. Landau, D. Tenen, D. M.
+Livingston, ibid. 72, 1960 (1975); S. I. Reed, J.
+Ferguson, R. W. Davis, G. R. Stark. ibid., p.
+1605.
+
+. A. E. Smith, S. T. Bayley, T. Wheeler, W. F.
+
+Mangel, in In vivo Transcription and Trans-
+lation of Viral Genomes, A. Haenni and J.
+Beaud, Eds. (Institut National de la Santé et de
+la Recherche Médicale, Paris, 1975).
+
+. R. Dulbecco, Proc. R. Soc. London Ser. B. 189.
+
+1 (1975).
+
+. A. Novick and M. Weiner, Proc. Natl. Acad.
+
+Sci. U.S.A. 43, 553 (1957).
+
+. R. Dulbecco, L. H. Hartwell, M. Vogt, ibid. 53,
+
+403 (1965); L. H. Hartwell, M. Vogt, R. Dul-
+becco, Virology 27. 262 (1965).
+
+. J. H. Coggin, J. Immunol. 105, 524 (1970).
+. F. Wiener, G. Klein, H. Harris, J. Cell Sci. 8.
+
+681 (1971).
+
+. B. Mintz and K. Illmensee, Proc. Natl. Acad.
+
+Sci. U.S.A. 72, 3585 (1975); V. E. Papaionnou,
+M. W. McBurney. R. L. Gardner, M. J. Evans,
+Nature (London) 258. 70 (1975).
+
+. M. Vogt and R. Dulbecco, Cold Spring Harbor
+
+Symp. Quant. Biol. 27. 367 (1962).
+
+. R. E. Pollack, H. Green, G. J. Todaro, Proc.
+
+Natl. Acad. Sci. U.S.A. 60, 126 (1968); H. C.
+Renger and C. Basilico. ibid. 69, 109 (1972).
+
+. H. F. Stich, R. H. C. San, Y. Kawazoe. Nature
+
+(London) 229, 416 (1971).
+
+. J. McCann, E. Choi. E. Yamasaki, B. N. Ames,
+
+Proc. Natl. Acad. Sci. U.S.A., 1n press.
+
+. B. N. Ames, F. D. Lee. W. E. Durston.ibid. 70.
+782 (1973).
+1. L. D. Kier, E. Yamasaki, B. N. Ames,ib1'd.
+
+4159 (1974); B. N. Ames. H. O. Kammen. E.
+Yamasaki, ibid. 72, 2423 (1975).
+
+J. Roy. Stat. Soc. Ser. A 134, 133
+(1971).
+
+. P. Berg, D. Baltimore. S. Brenner. R. 0. Rob-
+
+lin, M. F. Singer. Proc. Natl. Acad. Sci. U.S.A.
+72, 1981 (1975).
+
+SCIENCE, VOL. 192
+
+ 
+
+
+
+
+  
+   
+   
+  
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+    
+ 
+   
+  
+  
+   
+   
+
+    
+ 
+
+ 
+
+MOBILIZATION 3
+FOR ANIMALS
+
+PO. Box 337, Jonesboro, TN 37659, USA.
+
+ 
+
+ALTERNATIVES TO THE USE OF ANIMALS IN EXPERIMENTATION
+
+MATHEMATICAL AND COMPUTER MODELS: Mathematical models can be used to make direct predictions of the functions of
+human systems. Computer models, by means of simulation, provide information that cannot be gained from experiments
+using living creatures. Computers also play an integral part in many of the othertechniques described here. They are used,
+for example, in studies of a variety of anatomical systems, organ functions, in studying heart attacks, and in nerve cell and
+neuro-muscular research. Computer models of the human circulatory and respiratory systems have been used as
+teaching devices at a number of medical schools. Computer and mathematical models are based on the use of equations
+of‘va‘rying degrees of complexity to represent biological phenomena, and the state of all the element he model can be
+examined at any point in time and their interactions resolved. Computer models are highly accurate, eir capabilities
+are increasing in complexity and scope as the technology is developed.
+
+  
+  
+  
+ 
+   
+   
+   
+   
+  
+
+‘\
+
+separation from
+us providing a
+ult, the effects
+3 to be tested
+a single organ
+e a functional
+
+TISSUE CULTURES: Ci” Cultures: Single cells from human or animal tissues are grown outside the body aft
+their original tissue or organ. Each generation of these cells breeds identical cells almost without limit
+constant supply of identical test materials which would be impossible with living, changing a'nimals. As a
+of foreign substances ortest procedures upon completely standardized matter can be observed. Subst
+fortoxicity, irritancy, etc. can be applied to cell cultures and evaluated. Orqan Cultures: Groups of cellsf "
+are grown in a feeding medium. The normal structure of the organ is retained, and since the cells
+relationship to each other, reactions and effects of a substance upon a complete organ can be tested wit ults similar to
+those in an intact body. Either or both of these cultures can be used in biochemistry, cancer r . earch, genetics,
+immunology, microbiology, pharmacology, physiology, radiation, toxicology, virus research, and the production of
+vaccmes.
+
+BACTERIA CULTURES AND PROTOZOAN STUDIES: Many species of bacteria react in the same way to toxins, mutagens, and
+irritants as humans do, at least as many, and at least to the same extent that other species of animals are equivalent in
+these respects. Protozoa have similar chemistry to humans and therefore can be useful in nutritional research. These
+organisms reproduce extremely rapidly and are easily monitored through several generations. They are easily
+standardized, controlled, stored, and maintained at a very low cost. Because animal tests take much time, only a fraction of
+the vast number of new products ready for market each year can be adequately tested on animals, resulting in either a
+backlog of products, in products entering the market prematurely, or in'products for which continued use over several
+generations has not been properly assessed in organisms similar in functioning to humans. Animal tests are time-
+consuming and expensive, and seldom reliable as bacteria cultures in most situations. Bacteria cultures and protozoan
+studies can be used in cancer, birth d . t, aging, and heart disease research, in water pollution studies, and through
+recombinant DNA research, in insulin, anti-virus, and vaccine development. '
+
+GAS CHROMATOGRAPHY AND MASS SPECTROMETRY: These are methods used in identifying drugs and chemical substances
+through the study of chemical and drug activity at the molecular level. Substances and solutions comprising parts of more
+complex substances are separated into their basic elements through gas chromatography and then identified and
+measured via the very sensitive and accurate procedure of mass spectrometry. These methods have proven very
+successful in vitamin and drug research.
+
+EGGS: Bird and reptile eggs and embryos are used to study normal fetal development and the effects of drugs on the fetus. Eggs
+are also used to culture viruses and vaccines. This method has proven effective in instances where tests on animals have
+yielded conflicting or useless results, when if animal tests were employed to determine results, great harm to humans may
+have resulted.
+
+RADIOIMMUNOASSAY: This consists of saturation analysistechniques using radioactive elements. Radioactive substances
+similiarto those present in the body are used to analyze a wide range of materials. Radioimmunoassays greatly reduce the
+number of animals needed. One animal can provide antibodies for hundreds of radioimmunoassays.
+
+QUANTUM PHARMACOLOGY: This science utilizes quantum mechanics, an understanding of molecular structure, and
+computerization, to seek an explanation of the behavior of drugs on the basis of molecular properties.
+
+
+
+
+MECHANICAL MODELS: Mechanical models can be used as subjects for safety testing, such as car crash studies and tests of
+fireproof fabrics, and as teaching devices. Complex models are now in final development stages for use in
+anaesthesiologist training, and can provide reactions to many different drugs. A simulator has been created which
+includes a heart circulatory system, lungs, and a respiratory system, along with a means of testing responses to drugs and
+kidney functions, thereby obviating the perceived need for the use of animals in such situations.
+
+CLINICAL AND EPIDEMIOLOGICAL SURVEYS: Clinical surveys use human volunteers, clinical case studies, autopsy reports, and
+statistical analysis linked with clinical observation of disease. This permits far more accurate observation and use of actual
+environmental factors related to human disease than is possible with unnaturalIy-confined animals.
+
+PLACENTA: The human placenta, which is usually discarded after birth of a child, can be used for practicing techniques of
+microvascular surgery, and for testing toxic side effects of chemicals, drugs, and pollutants. It provides a medium far
+superior to animal tissues because it is human, and it is entirely without cost.
+
+GENETIC ENGINEERING: Genetic engineering is now being used to provide insulin of a much purer type than was heretofore
+available using animals. Genetically engineered insulin will eliminate a great portion of the harmful effects suffered by
+approximately 20% of the users of conventionally-produced animal insulin. In addition to insulin, growth hormone and
+interferon can be produced through genetic engineering, and doubtless many other substances could be as well.
+
+AUDIO-VISUAL GUIDES AND AIDS: Film, closed-circuit television, and video tape can all be used as teaching aids, thus sparing
+thousands and thousands of animals from continued reruns of the same experiment. These methods also offer the added
+advantage of allowing for repeated viewing, including play-back and holding on a specific area of a demonstration.
+
+LITERATURE RESEARCH: Many present-day experiments are repetitive of research which has already been conducted simply
+because the researcher does not have an adequate familiarity with the literature in his or her own field, because the
+question has not been formulated correctly, or because experimental details are only slightly modified from previous
+experiments, in order that the work will be eligible for funding as new research, or for publication as new work.
+
+ELIMINATE THE TEST OR THE EXPERIMENT: For some experiments there is no need to consider the alternative because the
+study is irrevelant to human problems, is unnecessarily cruel, is trivial, or all three. This is particularly true of behavioral
+and psychological experimentation, where such experiments are the rule rather than the exception, in the development of
+endless different varieties of human toiletries, and in much biomedical research, where the only motivations are
+undirected curiosity and a desire to have an article published, a grant funded, or a promotion awarded, with little if any
+consideration given to the suffering of the animal or the actual value of the experiment.
+
+ 
+
+
+
+
+Published by FRAME
+
+(Fund for the Replacement of Animals
+in Medical Experiments)
+
+312a Worple Road,
+
+Wimbledon SW20 8QU.
+
+Tel. 01-946 1450
+
+ 
+
+
+
+
+The following article written by Dr T. W. Hegarty, Scientific
+Adviser to FRAME, was published in the American magazine
+PAREN THESE (Summer I 9 75 /.
+
+mm
+WW
+
+Man has invented innumerable ways of using and misusing
+animals in the name of medicine or biology. From the
+spectacular American ape or Russian dog left to expire in
+space to the inert rabbit, bird or frog served up for dissection
+by students, and from the nightmare two-headed dogs created
+on the operating table to the millions or is it billions of
+anonymous rats and mice used endlessly to test the dubious
+safety of yet another chemical introduced by man into his
+environment, there is always some essential reason to justify
+the use of the animal. ‘Alternatives’ are OK in theory, but
+they could never be used in my ﬁeld.
+
+Before looking at ‘alternatives’ themselves, it will help if we
+categorize brieﬂy the many ways in which animals are used.
+‘ Some are required for teaching and demonstration purposes
+and some for veterinary research, but the vast majority are
+used in basic research, for routine functions, or in research
+relating in some way to the human system. ‘Basic research’ is
+uncharitably described as any work for which one cannot, at
+present, think of a use, and includes many biochemical or
+physiological studies at the whole-animal, tissue, cell or sub-
+cellular level, as well as some thoroughly unpleasant work on
+animal behaviour — all carried out to further our knowledge.
+Routine functions include such areas as serum, hormone,
+vaccine or antibody production, the bioassay of the concen-
+tration or activity of biologically active substances, and the
+maintenance and testing of disease organisms. Finally, in
+research relating to the human system, the animal is being used
+in some way as a model for man, whether it be in the testing
+of drugs or toxic chemicals, or in the investigation of human
+diseases and disorders.
+
+‘Alternatives’ conjure up the idea of complete replacement
+of animals by some method not involving animals at all.
+Unfortunately, ‘alternatives’ rarely meet this criterion and a
+method may be preferred because feweranimals are used, or
+because they are used indirectly rather than directly. An
+example should serve to explain this. Polio vaccine was orig-
+
+inally produced from virus grown directly in monkeys, but
+the introduction of a culture method using monkey kidney
+tissue replaced their direct involvement with an indirect
+involvement as the source of kidneys. Many animals were still
+required and the losses in the trapping and shipping of the
+monkeys were enormous. Within the last few years, however,
+general acceptance has been given to the production of polio
+vaccine from virus grown in human cells cultured in such a way
+as to produce vast amounts of standardized tissue without the
+continuous need to provide fresh starting material. The need
+for monkeys in polio vaccine production has been drastically
+reduced whilst the potential safety of the vaccine has, as a
+result of the new method, been equally dramatically improved.
+Even now, however, complete replacement of animals has not
+been achieved because, as with most tissue cultures, it is nec-
+essary to provide animal serum to stimulate cell growth.
+Despite the fact that-animal involvement has not been com-
+pletely eliminated, most people would probably agree that the
+changes represent a considerable advance over the original
+method.
+
+Some, ‘alternatives’ may seem obvious and trivial, yet are
+often overlooked. Many researchers prefer to ignore the fact
+that they may be able to carry out their work in the study of
+basic cell function using plant or bacterial, rather than animal
+material. If animal tissue is considered necessary many
+researchers will choose to kill laboratory animals instead of
+collecting material from a local slaughterhouse, and in studies
+on blood cells human blood may be just as acceptable as blood
+from laboratory animals. If these points were remembered
+many animal lives could be saved.
+
+in the detection or production of particular substances
+there is no inherent merit in the use of live animals and these
+are replaced as new methods. become available, but the pace
+of developing and introducing such replacements could be
+greatly increased. Well-established alternatives include the use
+of micro-organisms instead of animals in nutritional tests. The
+development of tissue cultures of human material for vaccine
+production has been a real breakthrough and there is an in-
+creasing number of disease organisms that can be detected in
+cultures instead of animals — tuberculosis is a recent example
+where a new culture test is more sensitive than the guinea pig
+assay that it replaces. Radio-immunoassays, tests for partic-
+ular substances using antibodies, are also replacing older,
+animal-using tests, but once again animals must still be used
+indirectly for producing the antibodies. Really useful ad-
+vances would come from the development of tissue culture
+media winch were chemically deﬁned and no longer needed
+animal serum, in vitro systems capable of producing antibodies
+for immunological work of many kinds, and cell or organ
+tissue cultures capable of producing hormones and other
+
+biologically active substances. The advantages of ‘alternatives’
+in this ﬁeld are that they are often more convenient, easier to
+standardize, more exact and may well be safer than the tests
+or systems that they replace.
+
+In toxicology, in work on fundamental aspects of human
+function, and in much of the work on human diseases,
+animals are used as models of the human system. This must
+be unsatisfactory because other species never exactly resemble
+humans in the particular aspect being studied. The move to-
+ward carrying out more and more research on primates
+because of their close resemblance to humans must be viewed
+with equal concern in the light of recent ﬁndings in America
+which suggest that the primate intellect may be far closer to
+that of a human than we have cared to accept in the past.
+Someone soon is going to ask the question why we think we
+have the right to experiment on a chimp and not on a sub-
+normal human. For many reasons we need to ﬁnd alternatives.
+
+It would be naive to suggest that ‘alternatives’ are generally
+available for human modelling, but some have already been
+adopted and there is considerable potential in a number of
+ﬁelds. Tissue culture is one fo the main possibilities. This
+involves the growing or maintenance in test-tube conditions
+of small pieces of tissue or dispersed cells. Advances are con-
+tinually being made which allow cell growth to proceed at
+densities closer and closer to that of the tissue from which the
+cells were removed, and in some cases cells may be persuaded
+to re-aggregate into tissue like material. Some cell types may
+be cultured in their original state, retaining their original
+properties; they may become cell strains and replicate over
+many generations in a relatively normal state; or they may
+become transformed into cell lines and lose their genetic norm-
+ality. In either of the latter cases vast amounts of standardized
+tissue may be produced and the scope for experimentation in
+controlled conditions is enormous. In the study of human
+diseases and disorders normal and abnormal human tissues can
+be studied and subjected to experiment in the ‘test tube’.
+Human tumours can, in many cases, be maintained in culture
+and offer material for study which has many advantages over
+tumours induced artiﬁcially in highly abnormal strains of
+mouse.
+
+In toxicology there is an urgent need to ﬁnd alternatives
+to animal tests, not simply because of the large numbers of
+animals used, but also because of the real doubt that these
+tests are relevant to man. There can be reasonable optimism
+that, with real effort spent in their development, non-animal
+using methods will result in tests that are safer to man than
+those which are used at present. Already successful attempts
+have been made to develop cultured cell systems for the
+detection of potential carcinogens, and promising results have
+
+ 
+
+
+
+
+been obtained from the use of bacteria in screening tests for
+potential mutagens.
+
+Even carefully controlled testing of new drugs on humans
+may become possible through the use of incredibly sensitive
+analytical techniques already well on the way to being devel-
+oped. These can follow the metabolism of the substance in
+the body at levels far lower than an active dose, thus giving
+the possibility of detecting adverse reactions before any harm
+is done. This would lead to the introduction of safer drugs as
+well as helping to reduce the need for animals in drug testing.
+
+Finally, in fundamental studies, novel tissue culture systems
+offer ways of replacing animals. One example in neurology is
+a recent development in which nerve tissue is cultured and
+undergoes structural and functional developments which are
+similar to those which occur in viva.
+
+An alternative approach in the study of cancer and other i11-
+nesses is the investigation of the occurrence of disease in
+relation to environmental factors, an area of research that,
+according to a sub-committee report delivered to the National
+Cancer Advisory Board in March, is being sadly neglected.
+Recent ﬁndings on intestinal cancer in man in relation to
+eating habits exemplify this sort of approach, the usefulness
+of which should not be underestimated. Concentration on
+epidemiological research could well help to reduce the need for
+less relevant animal studies.
+
+Tissue cultures, although having many advantages in terms
+of standardized tissue and ease with which differing experi-
+mental conditions may be applied, are not the only possible
+alternative model. Considerable advances have been made in
+the development of mathematical as opposed to biological
+models, especially in such areas as heart, lung and blood circ-
+ulation research. Models such as these can be derived from
+basic theory alone or from a knowledge from past experimental
+ﬁndings (or a combination of both) and may be used to
+predict events which occur in response to applied ‘stresses’.
+As with tissue cultures it is a comparatively simple procedure
+to run a set of experiments with a variety of different experi-
+mental ‘conditions’ which are, in this case, described in
+mathematical terms.
+
+Computer modelling has also been extensively applied to
+the study of drug uptake in humans and this has already been
+adopted in some medical and pharmacology schools at Uni-
+versities, especially in America, as a means of teaching students
+about drug responses without using animals. Computerized
+‘dummies’ together with other modelling systems offer wide
+scope for application but at present the substantial advantages
+that this approach to teaching can offer may be being wasted
+because of a lack of training of students in systems analysis
+
+and computer science, thus denying both the students and
+potential research workers the early use of this powerful
+teaching and investigation tool.
+
+This brief collection of examples where alternatives are
+already taking over is by no means exhaustive and is meant
+solely to show just how widely.they can be applied. Maybe
+today alternatives do not exist in many ﬁelds, but who knows
+whether this will still ‘be true tomorrow. Certainly there is
+tremendous potential for replacing many millions of animals
+used annually in routine methods for antibody, serum, hor—
+mone and vaccine production, in bioassays and in screening
+programmes for various types of chemical. Support for this
+work and the spread of information on it is essential if rapid
+advances are to be made.
+
+The moral question of the need for animal experimentation
+has not been covered at all in this short article. In the U.K.,
+where figures on animal use are available, of 5 million animals
+used each year less than half are involved in genuine medical
+research. The greater proportion are used in areas such as the
+testing of cosmetics, new tobacco substitutes (a recent case
+provoking much publicity about the use of beagles), and
+other non-essentials. Do animals have to die in the testing of
+substances that we do not really need and in some cases we
+would be better without?
+
+Perhaps every researcher should check with his conscience
+two or three times before starting any experiment — do I
+really need to do it? And if the honest answer were given,
+perhaps we would see a real reduction in animal experiments.
+
+Reprinted by kind permission of the Editor of “Parenthese”.
+
+ 
+
+
+
+
+SURVEY: WHO DOES WHAT
+
+The cosmetics industry does an incred' le amount of testing on laboratory animals to
+determine “safety” of its products for e on human skin, near eyes, etc. The Fund for
+Animals (1112 N. Sherbourne Drive, Los Angeles 90069) conducted a survey of mayor
+companies to ﬁnd out the extent to which they tested, and the results (based on the com-
+
+panies’ replies) follow.
+
+COMPANIES WHICH DO NOT
+TEST 0N LIVE ANIMALS:
+
+Beauty Without Cruelty
+British-American Cosmetics, Ltd.
+Campana Corp. Ltd.
+Comfort Manufacturing Co.
+Compton & Knowles Corp.
+Cosmetic Creations Inc.
+Dodge Chemical Co.
+
+Duke Laboratories
+
+Fashion Two-Twenty
+Dorothy Gray
+
+Hair: Pure Food Co.
+Hickok—A Man's Company
+Houbigant, Inc.
+
+Humphreys Pharmacal Inc.
+Lander Co., Inc.
+
+Lelton International, Inc.
+Menncn Corp.
+
+Mohawk Brush Co.
+
+Shaklee Products
+
+Roberts -— I... E. Robert Co., Inc.
+Vitabath Inc.
+
+Yardley
+
+ 
+
+5%
+
+COMPANIES WHICH TEST
+EXTENSIVELY AND OR USE
+
+ANIMAL PRODUCTS
+
+Alberto Culver Co.
+Amway Corporation
+Elizabeth Arden
+
+Avon Products Inc.
+Ayerst Laboratories
+John H. Breck, Inc.
+Bristol-Myers
+Carter-Wallace Inc.
+Chattem Drug and Chemical
+Charles of the Ritz
+Chesebrough-Ponds Co.
+Coty Products
+
+Helene C‘urtis Industries.
+Dana Perfumes, Inc. '
+Fabergé
+
+Max Factor
+
+Gillette Co.
+
+Andrew Jergens Co.
+Johnson & Johnson
+Lanvin
+
+Mem Co., Inc.
+
+. Olay Co.
+‘ Revlon, Inc.
+
+Roche Laboratories
+Helena Rubenstein
+
+. Warner Lambert
+
+ 
+
+
+
+
+3.. «I m .v ‘ri‘ .. m. ,. a A mm. cats“ 4;.» _ in? . MW .. we Wm. ,.
+
+West view. The attractive building appears more like a ranch-type A/Iany windows keep interior bright and airy. Puppy en-
+country home than animal shelter. Plan could be well adapted for a closures are of varied sizes and built on the prznczple of
+small animal hospital or a breeder or boarding kennel. play pens with open tops. Note rounded concrete curbs.
+
+ 
+
+Towards the ideal in an
+jANIMAL SHELTERl
+
+ 
+
+ 
+
+Corridor o/ kennel area shows simple.
+practical construction of glazed brick and
+tile, Gibraltar ﬂooring with curb. Tele-
+phone extension in corridor is time saver
+and convenience for small staff.
+
+44 1‘; I\N1.VV that puppies were
+
+W always falling out of cages.
+Well. we just decided they wouldn’t
+
+" . , , fall out.”
+
+- é. . . ,. These words, spoken by Mrs. Chris-
+Architectural beauty from all sides. This is tine Stevens, secretary Of the Ann
+east view 0f Sheller- Dogs have ample Arbor Humane Society. very well sum
+space where they are walked for exerczse. up the pr‘irutiples that dominated the
+
+plans for the recently-cotnpleted new
+shelter of the Humane Society of
+W’ashtenaw County, located between
+the two major centers of Washtenaw
+County, Ann Arbor and Ypsilanti.
+Michigan.
+
+The puppies don’t “fall out” in the
+new shelter because they can’t. They
+are not kept in the usual tiered cages.
+They have. a special nursery where
+the enclosures are built on the prin-
+ciples of baby play pens with open
+tops. '
+
+There were also very ﬁrm opinions
+on the sizes of cages, for better com~
+fort, health and efﬁciency. Being
+
+‘_ “very anti-small cages,” according to
+Reception room and oﬁice. Careful records Self-operating doors of Plexiglas Tllrs' Stevens, the two Hers Of. cages
+are kept by cards identifying each dog on between inside kennels and outside in the observatlon wards, for incom-
+bulletin board (behind desk). runs are readily used by the dogs. ing dogs and cats, are spacious and
+
+ 
+
+
+
+
+ 
+
+; .l " -"use-«inward
+-. j . r-‘_._g._§4qgué rm!”
+
+. . mas-mm 9.»
+c 0 o .w. on '90” "n‘. V
+
+ 
+
+Construction details of self-operating doors.
+
+of varied sizes, to accommodate either
+small or large dogs, or individual lit-
+ters of kittens. All incoming animals
+are kept in the observation wards for
+at least 24 hours, or longer if there
+is any indication of illness.'For sick
+animals there are special isolation
+quarters, built expressly for such con-
+tingencies.
+
+These quarters, like all the rest of
+the kennel are kept light and airy by
+the carefully thought-out arrange-
+ment and size of the many windows.
+There is radiant heating and a ven-
+tilating system. There are germicidal
+lamps, spaced just as directed by the
+manufacturer for the best efficiency
+and there are built-in, self-operating
+water fountains in each individual
+kennel stall. All of these labor-saving
+features, the construction, and archi-
+tectural beauty of the building itself
+can be well adapted to a small animal
+hospital or a breeder’s or a boarding
+kennel, with the same practical ad-
+vantages.
+
+With always “the ideal” in mind,
+nearly a year was spent in study and
+planning of the shelter before .it‘was
+erected. The president of the Society,
+Edward H. Kraus, members 'of the
+Board of Directors and of the archi-
+tectural and engineering ﬁrms, Giffels
+and Vallet, Inc., and L. Rossetti car-
+ried on an extensive correspondence
+and visited shelters throughout the
+United States in order. to acquaint
+themselves with the best features of
+each. The new shelter was made pos-
+sible through the gift of the Matthaei
+Foundation.
+
+A unique feature of the shelter is
+the use of Plexiglas in the swinging,
+self-operating doors between the in-
+side kennels and outdoor runs. The
+Plexiglas was the inspiration of one
+of the architects based on his experi-
+
+ence in having owned a dog that
+refused to learn to use a solid swing-
+ing door in his home kennel, but
+readily pushed and went through one
+of Plexiglas.
+
+It is most important in a shelter
+to have the self-operating doors read-
+ily used by the dogs, both for keeping
+down odors and labor of cleaning
+inside stalls. The use of the Plexiglas
+doors has worked wonders. Even dogs
+that have had no previous experi-
+ence with the operation of swinging
+doors use them readily when they can
+see through them. Moreover, the dogs
+
+_ are more quiet and contented when
+
+they can sit and look out through their
+window-doors. The walls of the quar-
+ters are glazed brick and tile, with
+ﬂooring of Gibraltar concrete.
+
+There are individual enclosures for
+ninety-one animals in the shelter. A
+garage is attached to the shelter build-
+ing and a second building includes
+additional garage space along with a
+barn for the accommodation of large
+animals. There is also a residence for
+the shelter manager on the three and
+a half country acres. A campaign was
+carried on by the Society in order to
+qualify for the Matthaei Foundation’s
+gift which included land, fencing and
+landscaping, in addition to the build-
+ings. The ofﬁcer’s residence was ﬁ—
+nanced by the Society.
+
+The majority of animals received
+at the shelter are brought in as strays,
+
+I ' l a
+_ ,' __J._.I__L..J_..L.._ -~
+gU-WIISOLNHON .
+‘ fr-ra-s
+
+. r'—"r""
+
+I
+
+I
+l
+I
+
+-“ ‘OFFICE
+‘ II a
+II userms
+
+walrtue
+
+or as unwanted by private citizens, or
+
+. picked up by a humane office'riat citi-
+
+zens’ requests. Dogs picked up by the
+COunty dog warden are also housed at
+the shelter. _
+Unceasing efforts are made to place
+a maximum number of young, healthy
+animals with families properly quali-
+ﬁed to care for a pet. A weekly radio
+program includes a listing of animals
+currently held at the shelter for adop-
+tion, or reclaim by owners. '
+A complete record of each dog is
+maintained in a day ledger and by
+card system. Reference cards identi-
+fying each dog, even to personality
+and habits, are kept on a bulletin
+board, with duplicate cards on the
+
+. dog’s kennel enclosure.
+
+When dogs are given for adoption,
+the recipient is required to give refer-
+ences, gets a little talk on the respon-
+sibility of pet ownership, and is
+presented with a leaﬂet on proper
+care. Adoptions are followed up by
+personal visits, or by mail. Females
+are given for adoption only upon
+agreement that the new owners will
+have them spayed.
+
+The Ann Arbor Humane Society is
+not content with the new shelter, ﬁne
+as it is, but is already engaged in an-
+other campaign for certain additional
+clinical equipment which the heads of
+the organization feel is needed if their
+“ideal of ideals” in an animal shelter
+is to be fully realized.
+
+,_-f--~-x1-_ﬁ-_
+
+:0 Eu :r :0
+
+I
+I
+I
+I
+I
+
+HEALTHY DOGS RABIES
+
+—-r--r--1--1"~"~."T-—r"r“
+
+Reprinted from Gaines Dog Research Progress, Fall 1951
+
+ 
+
+GARAGE
+
+
+
+
+Hum“;
+
+J
+i
+
+x"
+
+f
+,.' magamaﬁm: (II/SM >6 - :
+
+ 
+
+
+
+
+ 
+
+ 
+
+VIII. THE USE OF PRE- AND POST-OPERATIVE ANALGESICS
+IN EXPERIMENTAL ANIMAL MEDICINE
+
+It is common practice in clinical veterinary medicine to use analgesic drugs
+before and after surgical anesthesia. The purpose of these drugs is to reduce
+the sensibility of the animal and hasten induction of anesthesia, as well as to
+cause a smooth recovery. It seems that these drugs should be used more than
+they are in experimental medicine and surgery. Some of these drugs alter the
+physiologic response of the animal to stimulus. Therefore, the pharmacologic
+action as well as the investigator’s experimental design must be understood.
+Carefully chosen analgesic drugs before and after surgery relieve pain, fear
+and shock, thereby aiding in the humane handling of animals as well as reduc-
+ing surgical risk. It is indeed true that good scientific technique and humane
+treatment are so closely allied that they are inseparable.
+
+Some of the drugs useful as pre-and post-operative analgesics or sedatives
+are the tranquilizers, (e.g., Acepromazine and Tranvet), the opiates (Mor-
+phine, Innovar-vet and Demerol)*, the barbiturates, and Atropine. The tran-
+quilizers and opiates reduce conscious sensory perception and therefore allevi-
+ate fear and reduce the amount of intravenous or inhalant anesthesia needed
+to accomplish proper surgical depth. These drugs also reduce the severity and
+length of the excitement stage during the recovery periods. Many surgical
+endeavors can be nullified if the excitement stage during anesthetic recovery
+is not mitigated.
+
+*Morphine is not recommended for cats. It can cause extreme excitement in this species.
+
+ 
+
+  
+
+
+
+
+UK) of Pre-ana’ Port-Operative Analgericr 17
+
+Atropine and the tranquilizers reduce secretion (i.e., saliva and bronchial
+mucous). Furthermore atropine dilates the bronchials, and these effects benefit
+respiration.
+
+Care must be exercised when the analgesics are used before anesthesia
+for they potentiate some anesthetic agents. Certain emergency antidotes should
+be available in case of respiratory depression or cardiac failure. It would be
+well to investigate and determine precisely which drugs are recommended to
+overcome the effect of each individual analgesic or anesthetic.
+
+Tranquilizers are most practical to use, and they can be readily given
+by mouth. The untoward effects (mentioned in the foregoing paragraph)
+are much less likely to occur if the drug is given by mouth. Dosage should
+be determined by reading insert brochure and/or label on bottle, or seeking
+the advice of knowledgeable laboratory personnel. Post-operative pain should
+be relieved with appropriate drugs.
+
+Sernylan (Phencyclidine Hydrochloride) is an effective means of render-
+ing monkeys and apes calm and tractable. It should never be used as a general
+anesthetic; however, it enhances the action of the barbiturates providing an
+excellent pre-anesthetic.
+
+Summarizing:
+
+(1) It is necessary that scientific investigators understand and use anal-
+gesics for the relief of pain; this is important for scientific as well as humane
+reasons.
+
+(2) It is important to know that deep depression and death can occur
+if the analgesics are overdosed, and to understand emergency procedures
+necessary to correct the effects of overdosage. Sometimes this may only re-
+quire increased or better ventilation or gentle artificial respiration.
+
+(3) The oral route is an efficient and practical method to employ for
+safe administration of tranquilizers, and of barbiturates given animals to make
+them calmer and more comfortable.
+
+(4) Unlike narcotics, the use of tranquilizers requires no narcotics license
+or Federally regulated accounting procedures.
+
+(5) Always find out the exact dosage; avoid overdosing.
+
+The following charts give dosages for common species of laboratory
+animals.
+
+ 
+
+
+
+
+ 
+
+COMMON DOSAGE
+DRUGS WITH
+ANALGESIC,
+AN ESTHETIC, OR
+TRANQUILLIZING
+ACTIVITY (Mg/Kg)
+
+NOOBVQ
+
+3"IJ..I.VD
+
+332NVdWIH3
+
+V'I'IIHDNIHD
+
+N3 )IDIHD
+
+"”8839
+
+Old VENIOO
+
+HBlSWVH
+
+ASXNOW
+
+WﬂSSOdO
+
+lIGBVH
+
+ 
+
+IH .— Inhalation
+
+IV — Intravenous
+Rec_ RecraIIy
+
+P0 _ Orally
+
+IP — Intraperitoneal
+SC - Subcutaneous
+
+lM — Intramuscular
+
+ 
+
+ANALGESIC DRUGS
+
+Acetalsalicylic
+
+Acid (Aspirin)
+
+ 
+
+ 
+
+ 
+
+Phenyl burazone
+(Bulazolidin)
+
+ 
+
+ 
+
+Meperidine
+Hydrochloride
+(Demerol)
+
+Methidine
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+03
+§
+3..
+‘5
+9
+‘
+Q
+O
+W»
+ES
+“:1
+N
+73:.
+S
+1:3
+&
+N
+I);
+3
+N.
+S
+§
+N
+b,
+
+ 
+
+
+
+
+ 
+
+COMMON DOSAGE
+DRUGS WITH
+ANALGEﬂC,
+ANESTHETIC, 0R
+TRANQUILLIZING.
+ACTIVITY (Mg/Kg)
+
+.LIGHVU
+WﬂSSOdO
+ABMNOW
+HELSWVH
+Old VENIHO
+N3 )DIHD
+V'I'IIHDNIHD
+BBZNVdWIHD
+BILLVD
+NOOBVB
+
+ 
+
+lH -— Inhalation
+
+IV — Intravenous
+
+Rec- Rectally
+PO .— Orally
+
+lP ._ lntraperironeai
+
+SC .. Subcutaneous
+
+lM — lnlramuscular
+
+ 
+
+TRANQUlLLIZERS
+
+Phencyclidine Hydrochloride
+(Sernylan)
+
+Use of PI'e-aml Pan-Operative Analgesic;
+
+ 
+
+ 
+
+ 
+
+Chlorpromazine
+
+Hydrochloride
+
+ 
+
+ 
+
+ 
+
+ 
+
+Promazine
+
+Hydrochloride
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Meprobamare
+
+(Equanil; Milfown)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+COMMON DOSAGE
+DRUGS WITH
+ANALceac,
+ANESTHETIC, OR
+TRANQUILLIZING
+ACTIVITY (Mg/Kg)
+
+.LISQVH
+WﬂSSOdO
+ABXNOW
+HELSWVH
+Old VENIDD
+'HBHBD
+NEXD‘IHD
+V‘I‘IIHDNIHD
+BBZNVdWIHD
+EILLVD
+NOOQVB
+
+ 
+
+IH — Inhalation
+
+IV - Intravenous
+Rec.— Rectally
+
+PO .. Orally
+
+IP _ lntraperitoneal
+SC — Subcutaneous
+
+IM — lntramuscul or
+
+ 
+
+AN ESTHETICS -
+VOLATlLE
+
+Ether
+
+ 
+
+ 
+
+Chloratorm"
+
+ 
+
+ 
+
+ 
+
+Halothane
+(Fluothane)
+Methoxyflurane
+(Closed Systems)
+
+to
+&
+t2.
+6.
+9
+V.
+m
+0
+\h
+5‘
+"Q:-
+m
+V:
+N.
+S
+m
+S.
+a
+N
+é
+N
+:0
+k
+3:
+I.3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*Oral sedation should be given to dogs before using chloroform.
+Chloroform should not be used in a room where mice are housed unless
+all of them are to be destroyed.
+
+ 
+
+
+
+
+ 
+
+COMMON DOSAGE
+DRUGS WITH
+ANALGEﬂC,
+AN ESTH ETIC, 0R
+TRANQUILLIZING
+ACTIVITY (Mg/Kg)
+
+.LISGVU
+N039|d
+WﬂSSOdO
+ABXNOW
+HBLSWVH
+Old VENIDO
+""8839
+NBXDIHD
+V‘lWIHDNIHD
+BBZNVdWlHD
+3'11..LV3
+NOOBVG
+
+ 
+
+lH - Inhalation
+
+IV — Intravenous
+Rec.— Rectally
+
+P0 .. Orally
+
+lP — lntraperitaneal
+SC — Subcutaneous
+
+lM .. Intramuscular
+
+ 
+
+BAR BITURATES
+
+S
+(b
+O
+\s
+:9
+at
+‘3.
+N
+R
+"c
+Q
+a,
+7‘
+O
+’b
+3
+&
+N
+N.
+Q
+N
+h;
+R
+“N
+O:
+W
+95
+R.
+v...
+
+Pentobarbitol IV
+Sodium (Nembutal) 30 up
+Long duration I0 l0
+lbs.
+l5
+over
+100
+lbs.
+
+ 
+
+ 
+
+TbioOental Sodium IV
+(Pentotbol) ‘ 10 up
+Short duration to 50 lbs.
+
+8-9
+up to ")0 lbs.
+5 over
+
+100 lbs.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*Tbis cbart gives anesthetic doses for barbiturates. It. is often {helpful to use barbiturates in smaller
+doses, administered orally. to make animals more comfortable and relaxed.,
+
+ 
+
+
+
+
+" .ACTIONEJ INC.
+
+and
+
+THEFTOF DOGS AND CATS
+
+ACTION 81, INC, a non—profit foundation chartered in Virginia, operates
+
+as a national network to prevent, monitor, and eXpose theft of dogs and
+
+cats within the dealer—laboratory system. ACTION 81 has contacts and/or
+co—workers in every state, and in parts of Canada and England.
+
+ 
+
+ 
+
+Theft of the founder's obedience—trained German Shepherd from Clarke”
+County, Virginia, triggered the start of the network in 1974.
+
+A Virginia State Police investigator worked for eighteen months at that
+time on excessive dog theft in the Clarke County area. He uncovered
+illicit but routine cash sales of dogs from a neighboring pound to a PA
+dealer supplying research. 300 local dogs "vanished" in one year!!!
+
+THEFT + POUND + CASH + DEALER + LABORATORIES = THE SYSTEM!!
+
+ 
+
+In March, 1976, a pickup truck with 102 dogs from pounds in VA, KY, WV,
+and bound for a PA dealer was stopped on I 81. Overcrowding caused the
+deaths of several dogs. ACTION 81 took its name from this incident.
+
+Dog and cat larceny for dealer-laboratory use results from the system of
+procurement, and the prices paid by the medical teaching, testing, and
+research facilities. It results from "No Questions Asked."
+
+ 
+
+ 
+
+The system involves dealers and their suppliers: pounds, auctions, and
+individuals stealing or obtaining family pets under false pretenses.
+
+LOW RISK..... EASY PROFIT..... AND UNMARKED PROPERTY..... INVITE THEFT.
+
+**********************:‘c*****k******************************************
+
+THE ACTION 81 PROGRAM:
+
+ 
+
+PREVENTION: "Do Not Leave Dogs and Cats ALONE Where They May Be Seen and
+TAKEN." Vary the Daily Routine. Spay and Neuter. Tattoo and
+Register the Tattoo. Be Sure Your Pet Wears Some Form of ID.
+
+ 
+
+THE LOCAL LOST PET REGISTRY: Essential in areas of high theft. In 1988-9
+A. 81 sent "How To Start a Lost Pet Registry” information to
+to MN, CT, IL, OH, GA, TX, NV, ME, WA, NJ, PA, AZ, WY, NY,
+NH, WV, MD, CA, LA, NC, OR, IN, KS, and Ontario, Canada.
+
+ 
+
+STATISTICS: In the period 1979—1982 ACTION 81 compiled statistics on VA
+dogs reported missing with signs of theft. The four year
+total was 23,186 dogs in 1/7 of VA. 4.2% of the total
+estimated dog population in the area of the statistics.
+
+Route 3, Box 6000 / Berryville, Virginia 22611 / Telephone 703-955-1278
+
+ 
+
+ 
+
+
+
+
+Information from a sampling of 1500 stolen dogs reported to ACTION 81 in
+the period 1986—89 showed the Labrador Retriever and German Shepherd
+heading the list. The states of origin totaled 36 in '86—7, 42 in '88—9.
+
+Reports of area theft problems in 1988-9 came from 43 states. Residents
+of 90 jurisdictions in VA requested pet theft assistance.
+
+ 
+
+EXPOSURE OF THE CRIME: For several years ACTION 81 organized workshops
+and meetings for public awareness of pet theft throughout VA, and in WV,
+OH, MT, MD, NC, CT, MN, and TN. Workshops are scheduled in 1990.
+
+ 
+
+In 1988—9, ACTION 81 was contacted for pet theft information by
+reporters in VA, WV, MD, MO, IA, IN, CA, KY, NY, NC, Wash. DC, IL, FL,
+CA, CO, NJ, VT, AR, MA, and CBS "48 Hours."
+
+ACTION 81 provided background information on the pound-dealer-laboratory
+system to legislative persons at the federal, state, and local levels.
+
+ACTION 81 LEAFLETS:
+
+ 
+
+Action 81 and Theft of Dogs and Cats
+Prevention of Dog and Cat Theft
+
+Pound Sales Problems
+
+The Dealer—Laboratory Connection
+
+Do's, Don'ts for Owners of Missing Pets
+
+VOICE of the MISSING, Quarterly Newsletter
+How to Start a Lost Pet Registry
+
+Midsummer Suffering on a Dealer's Truck
+Action 81 Statement; Stolen Animals in Research
+"I Could Have Stolen Your Pet" stickers/cards
+Action 81 Reports for 1986, 1987, 1988, 1989.
+
+ACTION 81 BOOKS:
+
+ 
+
+How to Start a Lost Pet Registry
+
+Problems of Pound Sales and Release
+
+Theft of Dogs and Cats Factual Report
+
+The Dealer—Laboratory Connection, Book One, 1976—87
+The Dealer—Laboratory Connection, Book Two, 1988—90
+Combined Index Lists of * Booklets
+
+VOICE of the MISSING Collection, 1982—89
+
+The leaflets and books listed above are updated regularly. The books
+present articles, correspondence, and compelling evidence of dog and cat
+larceny. The collection of ACTION 81 newsletters, 1982—89, contains
+exact quotes from network letters and shows the nationwide extent of
+this crime and the emotional trauma of the pet owners.
+
+PLEASE CALL OR WRITE ACTION 81 IF YOU CAN DISTRIBUTE ANY OF THE ABOVE.
+A CONTRIBUTION OF $10 TO ACTION 81 FOR EACH BOOK MARKED WITH A * WILL
+
+HELP US TO CONTINUE THIS WORK. Contributions of any amount for the
+other materials are appreciated but not requested.
+
+ACTION 81 STRONGLY PROTESTS THE POUND—DEALER—LABORATORY SYSTEM OF
+ACQUIRING LABORATORY DOGS AND CATS....... THEFT IS THE RESULT ...... .
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+   
+
+  
+
+ur state and federal laws do
+not permit the permanent possession of wild
+birds. Before you assume the responsibility of
+caring for the bird, be aware that the task is
+time»consuming, the mortality rate is high,
+and that you are caring for the bird
+temporarily for the sole purpose of returning
+it to the wild.
+
+The first rule of thUmb for your bird
+in question is to make certain that it is an
+orphan bird. The parent may be off in search
+of food or some distance away observing the
+progress of its offspring.
+
+If you think the bird has fallen from the
+nest, try to replace it, (the old belief that the
+parent bird will reject its baby if handled by
+a human is not true) or put up a makeshift
+nest by using a plastic berry box with
+openings in the bottom for drainage in case of
+rain. Place it as close to the nest site as
+possible, but keep it from the direct sun.
+
+If the fledgling is well~feathered, place it
+in a bush or a protected spot, safe from
+predators.
+
+Observe the bird for an hour or two.
+This may seem like a long time, but the
+responsibility you will assume will take many,
+many hours and days; so give the parent bird a
+chance.
+
+ 
+
+Identification
+
+  
+
+Sparrow:
+
+Very tiny, baby may be barely an inch long.
+The bill is pink inside, edged with yellow.
+If feathered, the feathers are brown.
+
+ 
+
+The very bedraggled—looking young have
+yellowish fuzz. Skinny bills. If feathered, the
+
+feathers are brown.
+
+ 
+
+ 
+
+Below is a list to aid in the identification of
+your orphan bird.
+
+and hold the mouth open while feeding it
+several bites.
+
+Tiny sparrows should be fed every ten
+minutes, all day: Blue Jays, Mockingbirds,
+and Cardinals every 20 minutes. As the baby
+progresses, increase the time between
+feedings. "
+
+ 
+
+Doves are fed differently. Since they do
+not open their mouths readily, they must be
+fed with an eye dropper, preferably one with a
+long tapering poing. Insert the eye dropper far
+down the throat on the bird’s right side, hand
+squeeze the bulb gently. The crop of a dove is
+located at the base of the neck in front of the
+chest. Tiny, downy doves should be fed every
+30 minutes from morning until night for the
+first two weeks. The crop can store a lot of
+food, so stop feeding before it is full and
+swollen. Overvfeeding in doves plugs the
+crop, and the bird dies. If the crop does not
+empty, give the bird one or two drops of warm
+mineral oil or olive oil.
+
+ 
+
+ 
+
+Unfeathered babies should be put in a
+small can, bowl, or cup lined with soft tissue
+paper. Place the container on a heating pad
+set on low, or you may attach a 71/4 watt light
+bulb (night light) to the side of the bowl
+container. Maintain the environment at
+80,909 Decrease the temperature gradually
+as the baby gets feathers.
+
+Feathered babies should be placed in a box
+or cage lined with newspaper. Place a small
+stick or branch in for a perch. Take care that
+the branch has no insecticides on it.
+
+Fledgling Care
+
+ 
+
+ 
+
+    
+
+Mockingbird:
+
+W§;g;;:‘r.- -: . ,1
+
+Feeding
+
+ 
+
+Inside the mouth is yellow. Outside “lips” are
+flabby yellow. If feathered, there are big white
+patches on gray wings.
+
+   
+
+Blue Jay:
+
+Dark bill with red lining. Very young have
+white flabby “lips”. Blue or bluevgray feathers
+with white on tips of the wing feathers.
+
+  
+ 
+ 
+
+Cardinal:
+
+Usually bald around the eyes, even after it is
+well feathered. Redrbrown feathers. Stout
+heavy bill.
+
+ 
+
+ 
+
+Of the five species mentioned above, all
+are fed similarly with slight variations.
+
+Emergency formula
+
+Mashed hard’boiled egg yolk.
+Warm water.
+Mix to the consistency of mush.
+
+Maintenance formula — (for small
+
+feathered birds)
+
+Mashed hard boiled egg yolk.
+
+Equivalent amount of high protein baby
+cereal.
+
+Mix with warm water.
+
+Add supplementary vitamins, one drop per
+yolk. We have tried Vicon Paste. (Squeeze
+out the equivalent of a liquid drop. You may
+use Parakeet liquid Vitamins if convenient.
+Also add 25mgs Vitamin B 1 (Thiamine
+hydrochloride) crushed and mixed with
+
+the formula. The latter is very important,
+especially with Mockingbirds, for they have a
+tendency toward weak legs.
+
+Mix the ingredients to a fairly moist, but
+not soupy, consistency. Only very young birds
+and doves, before they are self’feeding,
+should be fed with an eye dropper. Eye
+dropper feeding must be done with great care,
+or the baby could drown or strangle. The eye
+dropper should have a long tapering point,
+and the formula should be warm. If the bird is
+active and hungry, and they usually are, it will
+open its mouth readily. If the baby does not
+open its mouth, gently tap on the side of the
+beak or gently jiggle the container holding
+the bird. Insert the eye dropper as far back in
+the throat as possible on RIGHT SIDE OF
+THE BIRD’S THROAT Squeeze the formula
+gently into the throat. On all birds, except
+doves, you should see a swelling on the
+RIGHT SIDE of the throat as the crop fills.
+Stop feeding when the crop appears full.
+
+It does not take much, so use common sense.
+If you must force feed the bird, gently, but
+firmly, pry open the bill with your thumbnail,
+
+ 
+
+ 
+
+When the bird becomes active and begins to
+hop around, move it to a cage.
+
+ 
+
+Mockingbirds, Jays and Cardinals:
+When the bird begins feathering out, put the
+food on a swab stick, without cotton, or a
+popsicle stick, if the mouth is large enough,
+and place it well back in the throat. Alternate
+feedings of formula (use less water to make it
+more solid) with raw hamburger. (Take care to
+keep it fresh), and dry dog food pellets soaked
+in warm water.
+
+Eventually add a small jar lid of moistened
+dog food pellets and hamburger in the cage.
+Dip the beak into the mixture. Continue
+hand feeding, however, until you are certain
+the bird is eating on its own.
+
+Doves:
+
+When the bird begins to peck at the bottom
+of the cate, sprinkle parakeet seed on the
+floor of the cage. Also place a container of
+water (a 11/2” deep lid will do) in the cage.
+Continue to feed with an eye dropper until
+you are certain that the bird is eating on its
+own (when you can feel the crop full of
+seeds). This transition may take 1 . 2 weeks
+of supplementary feeding.
+
+Sparrows:
+
+Alternate formula with moistened dog food
+pellets, as above. When the bird is pecking at
+the formula on a swab stick or spoon, place
+the spoon in the cage, and watch to make sure
+the bird is eating the formula from the spoon
+by itself. When this happens, sprinkle
+parakeet seed over the formula, and on the
+floor of the cage. Put a small jar lid ofwater in
+the cage at this stage, and add hamburger bits
+to the spoon. Gradually decrease amount of
+formula until the bird is entirely on seed and
+hamburger; then gradually add wild bird seed,
+and decrease the amount of parakeet seed.
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+The less dependent the bird is upon you,
+the better chance it will have for survival
+when released.
+
+Once a bird eats independently, do not
+handle it except in necessity.
+
+Allow it ﬂying time on an enclosed porch
+or a room where it will not injure itself.
+Cover mirrors and windows at first until
+you know the bird has the feel of the
+surroundings. This does not take long.
+
+When the bird is fully feathered, eating
+on its own, and flying well, place the cage
+outside in a safe, shady spot, and leave the
+bird outside day and night. After a week,
+open the cage door. Leave the cage open
+with food and water, so that if the bird needs
+shelter or food, it will have a refuge before
+going it alone.
+
+If you care for the bird to the point of
+release, and are uncertain as to the above
+procedure, you may bring the bird to the
+Suncoast Seabird Sanctuary. It will be
+Elaced in an outdoor facility where it will
+
+e readied for its final release.
+
+Tending these orphan birds is a serious
+business. The reward for all your time,
+patience, and a lot of luck is returning the
+bird to a free life; and that, after all, is quite
+a contribution.
+
+Prepared for Suncoast Seabird Sanctuary
+
+by Christina Swartz and Dorothy M. Weichman
+Photography by Stan Ashbrook
+
+Design by Brown, Dowling, and Kitten Inc.
+
+Presented by Florida Federal Savings & Loan
+Association. Paper from Mac Paper, Inc.,
+Tampa, Florida.
+
+week during daylight hours.
+
+Do remember — our state and federal laws
+do not permit the permanent possession
+
+of wild birds. Before you assume the
+responsibility of caring for the bird, be aware
+that the task is time consuming and the
+mortality rate is high. You are caring for the
+
+bird TEMPORARILY for the sole purpose of
+
+returning it to the wild.
+
+You may call the Suncoast Seabird Sanctuary
+for additional information if the bird does
+not respond to your care.
+
+Do handle the bird firmly, but gently.
+
+Make certain the formula is fresh. It helps
+to mix it in small amounts.
+
+Keep food in the cage at all times when the
+bird is learning to feed itself.
+
+Keep in mind their natural diet.
+
+Use common sense in amounts to feed.
+Keep the baby warm, but not overheated.
+Keep the containers and cages clean.
+Release the bird in a safe and sheltered spot.
+
+Know that these are not hard and fast rules
+that cannot be altered. They are the rules we
+have found to be successful at the. Sanctuary.
+
+If you must trim trees and shrubs when birds
+are apt to be nesting, check for nests before
+trimming, particularly in the spring and
+summer.
+
+Know that the inherent right of a wild bird is
+freedom, and the bird should be released at
+the earliest possible time.
+
+Visitation is free at the Sanctuary 7 days 3
+
+Join the sanctuary’s membership and “Adoptva—Bird” programs. Help us help them. Please write for information.
+
+ 
+
+Do not try to make the bird a pet. It will
+lessen the chance for survival when the bird
+is released.
+
+Do not keep a buggy nest to house your pet.
+Use a clean container.
+
+Do not give him milk or other liquids.
+The liquid in the formula is enough.
+
+Do not teach the bird to fly. Throwing it
+in the air may cause internal injuries when
+it falls to the floor. It will learn to fly on
+
+its own.
+
+Funds for the operation of the Suncoast
+Seabird Sanctuary come solely from
+donations. Most of these funds come from
+people who have joined either our
+MEMBERSHIP or ADOPTA~BIRD
+Programs. Under the Membership Program,
+$10 entitles one to a Student Membership,
+$25 for an Associate Membership, $50 for
+
+a Family Membership, and $100 to be
+recognized as a Sponsor Member. For
+AdoptrA’Bird, the monthly donations are:
+Birds of Prey: $10, Brown Pelican: $9,
+Cormorant: $8, Great Blue Heron: $7,
+Egret: $6, Tern: $5, and Gull: $4. If you
+would like to join either program, please call '
+(813) 3916211, or send your donation. ALL
+DONATIONS ARE TAX DEDUCTIBLE.
+Thank you.
+
+Suncoast Seabird Sanctuary Inc.
+
+ 
+
+(non—profit organization)
+18328 Gulf Blvd.
+
+Indian Shores, Fla. 33535
+(813) 3916211
+
+
+
+
+mHmwrmsn an<mm msuo%wsm m 8cm Umnr
+
+ 
+
+
+
+
+Curious elephants smell the wind
+
+A family group relaxing
+
+ 
+
+
+
+

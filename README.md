@@ -16,7 +16,11 @@ If you already have a local Python installation and are comfortable working with
 
 If you are just getting started with Python or simply prefer to work in the browser (I recommend this for the live workshop), click on the Google Colab button below to open the workshop notebook in Google Colab, Google's hosted Jupyter Notebook environment. You'll be able to run all of the code in your browser. 
 
-INSERT GOOGLE COLAB BUTTON
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csbailey5t/TRLN-Workshop-2020/blob/master/model-visualize.ipynb)
+
+You can also run the full notebook in Binder. To run in Binder, click the button below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csbailey5t/TRLN-Workshop-2020/master)
 
 ## Our Corpus: *The Animal Turn*
 
