@@ -26,7 +26,7 @@ You can also run the full notebook in Binder. To run in Binder, click the button
 
 The digitized collection we'll work with today is from NC State University Libraries' Special Collections: *[The Animal Turn](https://www.lib.ncsu.edu/animal-turn)*. This is a grant-funded collection with substantial materials from NC State University Libraries' Animal Rights and Welfare collections, along with materials from the ASPCA's archives. We're only going to be working with the text of these materials today, but one could certainly use computational methods to explore the collection as images. 
 
-This collection is backed by [IIIF (International Image Interoperability Project)](https://iiif.io/) and includes OCR text. With permission, I've taken advantage of the public IIIF manifest for the collection, and scraped the OCR text. The scraping code is included in this repo in `scrape.ipynb`. 
+This collection is backed by [IIIF (International Image Interoperability Framework)](https://iiif.io/) and includes OCR text. With permission, I've taken advantage of the public IIIF manifest for the collection, and scraped the OCR text. The scraping code is included in this repo in `scrape.ipynb`. 
 
 
 ## Resources on Machine Learning and Libraries
