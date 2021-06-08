@@ -16,7 +16,7 @@ nltk==3.5
 numpy==1.19.1
 packaging==20.4
 pandas==1.0.5
-Pillow==8.1.1
+Pillow==8.2.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
@@ -76,7 +76,7 @@ pandocfilters==1.4.2
 parso==0.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.1.1
+Pillow==8.2.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
@@ -152,7 +152,7 @@ pandocfilters==1.4.2
 parso==0.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.1.1
+Pillow==8.2.0
 pluggy==0.13.1
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
