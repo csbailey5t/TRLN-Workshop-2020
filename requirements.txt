@@ -51,7 +51,7 @@ entrypoints==0.3
 gensim==3.8.3
 idna==2.10
 ipykernel==5.3.4
-ipython==7.16.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.17.2
 Jinja2==2.11.3
@@ -125,7 +125,7 @@ future==0.18.2
 gensim==3.8.3
 idna==2.10
 ipykernel==5.3.4
-ipython==7.16.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.17.2
 Jinja2==2.11.3
