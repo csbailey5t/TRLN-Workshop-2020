@@ -10,7 +10,7 @@ gensim==3.8.3
 idna==2.10
 Jinja2==2.11.3
 jmespath==0.10.0
-joblib==0.16.0
+joblib==1.2.0
 MarkupSafe==1.1.1
 nltk==3.5
 numpy==1.19.1
@@ -56,7 +56,7 @@ ipython-genutils==0.2.0
 jedi==0.17.2
 Jinja2==2.11.3
 jmespath==0.10.0
-joblib==0.16.0
+joblib==1.2.0
 json5==0.9.5
 jsonschema==3.2.0
 jupyter-client==6.1.6
@@ -130,7 +130,7 @@ ipython-genutils==0.2.0
 jedi==0.17.2
 Jinja2==2.11.3
 jmespath==0.10.0
-joblib==0.16.0
+joblib==1.2.0
 json5==0.9.5
 jsonschema==3.2.0
 jupyter-client==6.1.6
